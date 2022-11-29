@@ -28,7 +28,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 ### Reach me on
-- <a href="[https://linkedin.com/in/AsepRidwan22/](https://id.linkedin.com/in/asep-ridwan-349150221)">LinkedIn</a>
+- <a href="https://linkedin.com/in/AsepRidwan22/](https://id.linkedin.com/in/asep-ridwan-349150221">LinkedIn</a>
 - <a href="https://dmds.dev">dmds.dev</a>
 - aszeprydzone@gmail.com
 - <a href="https://twitter.com/ARAM220201">Twitter</a>
